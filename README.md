@@ -3,5 +3,6 @@ A simple password manager written in Python that allows users to generatore, sav
 The program uses hashing to secure passwords in database.#
 #
 # Requirements
-Python 3.x#
+Python 3.x
+
 Modules: string, hashlib, sqlite3, random, os#
